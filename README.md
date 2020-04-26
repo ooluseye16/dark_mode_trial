@@ -1,6 +1,6 @@
 # dark_mode_trial
 
-A new Flutter project.
+A very simple app to demonstrate change in themes 
 
 ## Getting Started
 
